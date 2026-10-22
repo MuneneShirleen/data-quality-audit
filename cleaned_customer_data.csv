@@ -1,0 +1,8 @@
+customer_id,name,email,age,city,invalid_email,invalid_age,duplicate_customer_id
+101,Alice Mwangi,alice@example.com,24.0,Nairobi,False,False,False
+102,Brian Otieno,brian@example.com,31.0,Mombasa,False,False,False
+103,Carol Njeri,invalid-email,28.0,Kisumu,True,False,False
+104,David Kamau,david@example.com,45.0,Nairobi,False,False,False
+106,Faith Wanjiku,faith@example.com,,Nakuru,False,False,False
+107,,john@example.com,22.0,Eldoret,False,False,False
+108,Grace Achieng,grace@example.com,150.0,Kisumu,False,True,False

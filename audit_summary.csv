@@ -1,0 +1,9 @@
+metric,count
+Original row count,8
+Rows after exact duplicate removal,7
+Exact duplicate rows removed,1
+Rows involved in duplicate customer IDs,2
+Missing age values,1
+Blank names,1
+Invalid email rows,1
+Invalid age rows,1
